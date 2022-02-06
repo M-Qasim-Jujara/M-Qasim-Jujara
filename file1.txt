@@ -1,2 +1,3 @@
-Hi this is file 1 in git changes/insteadNumber
+Hi this is file 1 in git changes/insteadNumber test for diff
+
 
