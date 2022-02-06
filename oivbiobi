@@ -1,0 +1,23 @@
+[33mcommit f60c0ef65bf786cfcd5ed8c63c566ead256da474[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Qasim <qjujara321@gmail.com>
+Date:   Sun Feb 6 19:45:32 2022 +0500
+
+    modify file 2 now
+
+[33mcommit d19791ec8c72b25b738b43583034bc8508eb8ef5[m
+Author: Qasim <qjujara321@gmail.com>
+Date:   Sun Feb 6 19:36:02 2022 +0500
+
+    modify file 1
+
+[33mcommit c0d619789fd154e170f72f231aa1954e1564e7b4[m
+Author: Qasim <qjujara321@gmail.com>
+Date:   Sun Feb 6 19:31:29 2022 +0500
+
+    Add another file file2
+
+[33mcommit 10fad85d34d53803bd5bc01f00a57289c2118251[m
+Author: Qasim <qjujara321@gmail.com>
+Date:   Sun Feb 6 19:12:17 2022 +0500
+
+    Add file1
