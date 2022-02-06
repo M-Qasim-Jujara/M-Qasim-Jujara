@@ -1,2 +1,2 @@
-Hi this is file numnber 1 in git
+Hi this is file 1 in git changes/insteadNumber
 
